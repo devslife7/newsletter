@@ -3,7 +3,7 @@ require 'pry'
 #########################
 # Data for the newsletter
 #########################
-require "pry"
+#require "pry"
 CAMPUS = {
   "name": "DC",
   "address": "1440 G St NW, Washington, DC 20005",
